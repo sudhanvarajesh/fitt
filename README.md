@@ -26,7 +26,7 @@ Docker (Optional, for containerized setup)
 Backend Setup (Flask Server)
 sh
 Copy
-git clone https://github.com/sudhanvarajesh/fitt/tree/main
+git clone https://github.com/sudhanvarajesh/fitt
 cd Fitt/backend
 pip install -r requirements.txt
 python app.py
